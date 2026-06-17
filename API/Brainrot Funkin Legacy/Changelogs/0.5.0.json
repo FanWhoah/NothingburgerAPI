@@ -1,5 +1,5 @@
 {
-  "banner": "medalsupdate.png",
+  "banner": "tempbanner.png",
   "type": "major",
   "log": "- Added medals and a way to check your progress on the main menu.\n- Added seasonal events. Play the mod at certain times of the year to have certain things happen.\n- Fixed more IOS bugs\n- Fixed bugs that were caused by last updates rushed launch and minimal playtesting, sorry!"
 }

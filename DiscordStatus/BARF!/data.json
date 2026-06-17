@@ -1,0 +1,14 @@
+{
+  "name": "BARF!",
+  "description": "I donmt know whatg to put here",
+  "version": "1.0.0",
+  "lastUpdated": "9999-99-99",
+  "platforms": {
+    "PC": true,
+    "Mobile": false
+  },
+  "downloadLinks": {
+    "gamebanana": "hi from gamebanana",
+    "gamejolt": "hi from gamejolt"
+  }
+}
